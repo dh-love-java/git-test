@@ -4,7 +4,7 @@ public class FirstClass {
     public static void main(String[] args) {
         System.out.println("hello git project");
         System.out.println("hello git project");
-        System.out.println("hello test project");
+        System.out.println("hello  project");
         //System.out.println("hello test project");
     }
 //hello  test
